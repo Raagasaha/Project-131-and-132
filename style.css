@@ -1,0 +1,52 @@
+h2 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.heading {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: deepskyblue;
+font-size: 30;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px orange;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#btn {
+    font-size: 30px;
+    height: 70px;
+    width: 200px;
+    background-color: peachpuff;
+    box-shadow: 5px 5px 5px palevioletred;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.status {
+    font-size: 20px;
+}
+
+#back {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 35px;
+    
+}
+
+#img {
+    width: 50%;
+    height: 65%;
+    border-radius: 5px;
+  
+}
